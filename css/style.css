@@ -2233,8 +2233,17 @@ font-family: 'Gothic A1', sans-serif;
     letter-spacing: 2px;
 }
 
-br
+#spancustom
 {   content: "A" !important;
     display: block !important;
     margin-bottom: 1.5em !important;
+}
+
+li.a {
+  list-style-type: disc;
+}
+
+.social {
+  max-width: 25px;
+  color: #303030;
 }
