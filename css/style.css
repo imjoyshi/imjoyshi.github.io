@@ -2247,3 +2247,11 @@ li.a {
   max-width: 25px;
   color: #303030;
 }
+
+a {
+  color: #993300;
+}
+
+a:hover {
+  color: #662200;
+}
